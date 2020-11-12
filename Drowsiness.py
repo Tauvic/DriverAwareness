@@ -198,7 +198,7 @@ while True:
             if COUNTER == 0: eventID += 1
             COUNTER += 1
 
-            cv2.imwrite(f'log/img-{frameID:d}-closed.jpg', frame)
+            cv2.imwrite(f'snapshots/img-{frameID:d}-closed.jpg', frame)
 
             # if the eyes were closed for a sufficient number of
             # then sound the alarm
