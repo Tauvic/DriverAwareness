@@ -180,10 +180,10 @@ while True:
 
         # compute the convex hull for the left and right eye, then
         # visualize each of the eyes
-        leftEyeHull = cv2.convexHull(leftEye)
-        rightEyeHull = cv2.convexHull(rightEye)
-        cv2.drawContours(frame, [leftEyeHull], -1, (0, 255, 0), 1)
-        cv2.drawContours(frame, [rightEyeHull], -1, (0, 255, 0), 1)
+        # leftEyeHull = cv2.convexHull(leftEye)
+        # rightEyeHull = cv2.convexHull(rightEye)
+        # cv2.drawContours(frame, [leftEyeHull], -1, (0, 255, 0), 1)
+        # cv2.drawContours(frame, [rightEyeHull], -1, (0, 255, 0), 1)
 
         z_score = calculate_score(ear)
 
