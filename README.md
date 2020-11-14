@@ -12,7 +12,7 @@ The Driver Monitoring System is based on a camera that monitors the driver's beh
 The system provides immediate feedback on positive and negative behaviour. It warns when the driver gets tired and requires a break. It immediately alerts the driver when a dangerous situation occurs, suc as texting while driving). 
 After each trip the system analyses the data and generates a report that can be send to the drivers smartphone. The driver can then review its own behaviour and adjust it to improve its safety.
 
-![image](doc/driver-monitoring.jpg | width=60%)
+![image](doc/driver-monitoring.jpg | width=300)
 
 Monitor driver behavior:
   * Good driving habits
