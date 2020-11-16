@@ -3,10 +3,8 @@
 System name: Safe Driver Coaching System
 
 ## How can we make driving safer? 
-<figure><img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
-<figcaption>Its so easy to get distracted</figcaption>
-</figure>
-The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
+Its so easy to get distracted. The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
 
 ### Following a step by step approach
@@ -18,9 +16,10 @@ I decided to try to develop one myself to see how far I can come. Its an interes
 
 * Develop a basic prototype
     * learn more about the subject of safe driving, sensors, data processing, machine learning
-    * find out if its possible to develop a cost effective solution
+    * build a proof of concept based on a simple system such as laptop / webcam
+    * find out if its possible to develop the POC into a cost effective solution
     * demonstrate its capabilities
-* If this first step succeeds, try to interest parties to actually develop and use such systems
+* If this first step succeeds, try to interest parties to actually further develop and use such systems
 * If not then I have lost nothing and learned a lot.
 
 |Use case|Business case|
@@ -31,19 +30,24 @@ I decided to try to develop one myself to see how far I can come. Its an interes
 | * Make Driver Monitoring systems available for low cost|
 | * Lower costs for society|
 
+## How the system works
+
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/driver-monitoring.jpg">
 When a driver enters the car he/she is automatically recognized.
 During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
 It provides an audible warning when the driver gets tired and requires a break.
 It immediately alerts the driver when a dangerous situation occurs, such as texting while driving. 
 
-After each trip the system sends a summary to the driver's smartphone for quick review. When at home specific situations can be reviewed in depth with the Driving Coach App. The App will show snapshots or short video with detailed data and advise for improvement.
+
+After each trip the system sends a summary to the driver's smartphone for quick review. 
+When at home specific situations can be reviewed in depth with the Driving Coach App. 
+The App will show snapshots or short video with detailed data and advise for improvement.
 
 The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
 
 <a href="https://www.youtube.com/watch?v=lIt8yz-bxBI"/>
 
-## Monitor driver behavior
+## Monitoring driver behavior
 
   * Good driving habits
     * Wearing seat belt
