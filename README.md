@@ -7,6 +7,7 @@ System name: Safe Driver Coaching System
 The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
 
+Image source: Valeo [link](https://www.valeo.com/en/driver-monitoring/)
 
 * Develop a basic prototype
     * learn more about the subject of safe driving, sensors, data processing, machine learning
@@ -15,19 +16,19 @@ The system is based on a camera and sensors that monitor the driver's behaviour 
 * If this first step succeeds, try to interest parties to actually develop and use such systems
 * If not then I have lost nothing and learned a lot.
 
-Use case:
+## Use case
 * Promote safe driving habits
 * Improve safe driving behaviour
 * Help to prevent car accidents
 * Make Driver Monitoring systems available for low cost
 * Lower costs for society
 
-Possible business cases:
+## Possible business cases:
 * Car lease (safety as a service, reduce car accidents)
 * Insurance (reduce car accidents)
 * Road service organizations (safety for its members)
 
-Description:
+## Description
 
 When a driver enters the car he/she is automatically recognized.
 During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
@@ -38,21 +39,10 @@ After each trip the system sends a summary to the driver's smartphone for quick 
 
 The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
 
-![video](https://www.youtube.com/watch?v=lIt8yz-bxBI)
+<a href="https://www.youtube.com/watch?v=lIt8yz-bxBI">
 
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+## Monitor driver behavior
 
-![image](doc/driver-monitoring.jpg )
-
-Image source: Valeo [link](https://www.valeo.com/en/driver-monitoring/)
-
-Monitor driver behavior:
   * Good driving habits
     * Wearing seat belt
     * Active driving posture
@@ -75,7 +65,8 @@ Monitor driver behavior:
        * Mouth yawning
   
   
- Challenges:
+ ## Challenges
+ 
  * Specification (domain knowledge)
  * System limitations (processing power, battery consumption, operating system)
  * Physical conditions
@@ -86,7 +77,7 @@ Monitor driver behavior:
  * Legal issues
  
  
- Tools and technology
+## Tools and technology
  
  * Driver Sensors
     * Face location (is there a driver)
