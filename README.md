@@ -1,12 +1,21 @@
 # Driver Safety Awareness project
 
-Name: Driver Coach System
+System name: Safe Driver Coaching System
+
+* Develop a basic prototype
+    * to learn more about the subject of safe driving
+    * to see if its possible to develop a cost effective solution
+    * to demonstrate its capabilities
+* If this step succeeds try to interest parties to actually develop and use such systems
+* If not then I have lost nothing and learned a lot.
 
 Goal:
 * Promote safe driving habits
 * Improve safe driving behaviour
 * Help to prevent car accidents
 * Lower costs for society
+
+Description:
 
 The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitors the driver's behaviour during a road trip.
