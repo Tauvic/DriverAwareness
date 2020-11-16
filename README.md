@@ -9,6 +9,13 @@ System name: Safe Driver Coaching System
 The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
 
+### Following a step by step approach
+
+Developing a driver monitoring system is not a trivial task. And there are several ways to get there. 
+The easiest is of course just to buy such a system from a reliable supplier or develop one using a toolkit. 
+But this may be expensive or not suit your needs. And how do you get the expertise to choose the right solution?
+I decided to try to develop one myself to see how far I can come. Its an interesting project.
+
 * Develop a basic prototype
     * learn more about the subject of safe driving, sensors, data processing, machine learning
     * find out if its possible to develop a cost effective solution
