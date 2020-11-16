@@ -16,7 +16,7 @@ I decided to try to develop one myself to see how far I can come. Its an interes
 
 * Develop a basic prototype
     * learn more about the subject of safe driving, sensors, data processing, machine learning
-    * build a proof of concept based on a simple system such as laptop / webcam
+    * build a proof of concept based on a simple system such as laptop / webcam / smartphone
     * find out if its possible to develop the POC into a cost effective solution
     * demonstrate its capabilities
 * If this first step succeeds, try to interest parties to actually further develop and use such systems
@@ -37,6 +37,7 @@ When a driver enters the car he/she is automatically recognized.
 During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
 It provides an audible warning when the driver gets tired and requires a break.
 It immediately alerts the driver when a dangerous situation occurs, such as texting while driving. 
+
 
 
 After each trip the system sends a summary to the driver's smartphone for quick review. 
