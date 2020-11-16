@@ -4,8 +4,8 @@ System name: Safe Driver Coaching System
 
 * Develop a basic prototype
     * learn more about the subject of safe driving, sensors, data processing, machine learning
-    * to find out if its possible to develop a cost effective solution
-    * to demonstrate its capabilities
+    * find out if its possible to develop a cost effective solution
+    * demonstrate its capabilities
 * If this first step succeeds, try to interest parties to actually develop and use such systems
 * If not then I have lost nothing and learned a lot.
 
@@ -13,12 +13,13 @@ Use case:
 * Promote safe driving habits
 * Improve safe driving behaviour
 * Help to prevent car accidents
+* Make Driver Monitoring systems available for low cost
 * Lower costs for society
 
 Possible business cases:
-* Car lease (safety as a service, reduce accidents)
-* Insurance (reduce accidents)
-* Road service organization (safety for its members)
+* Car lease (safety as a service, reduce car accidents)
+* Insurance (reduce car accidents)
+* Road service organizations (safety for its members)
 
 Description:
 
@@ -34,7 +35,19 @@ After each trip the system sends a summary to the driver's smartphone for quick 
 
 The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
 
+![video](https://www.youtube.com/watch?v=lIt8yz-bxBI)
+
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 ![image](doc/driver-monitoring.jpg )
+
+Image source: Valeo [link](https://www.valeo.com/en/driver-monitoring/)
 
 Monitor driver behavior:
   * Good driving habits
@@ -82,6 +95,10 @@ Monitor driver behavior:
    * Futurebridge [link](https://www.futurebridge.com/blog/driver-monitoring-from-essential-safety-to-passenger-wellness/)
  * Example code:
     * Learn Open CV Examples [code](https://github.com/spmallick/dlib)
+    * Brain4Cars technical research [website](http://brain4cars.com/)
+    * Ground AI Real-Time Driver State Monitoring
+                Using a CNN Based Spatio-Temporal Approach*
+[link](https://www.groundai.com/project/real-time-driver-state-monitoring-using-a-cnn-based-spatio-temporal-approach/1)
     * Aontoine Lame GazeTracking [code](https://github.com/antoinelame/GazeTracking)
     * CNN Human face detector [model](http://arunponnusamy.com/files/mmod_human_face_detector.dat)
     
