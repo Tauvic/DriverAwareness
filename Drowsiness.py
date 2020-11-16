@@ -35,6 +35,16 @@ def eye_aspect_ratio(eye):
     # compute the eye aspect ratio
     return (a + b) / (2.0 * c)
 
+def rect_to_bb(rect):
+    # take a bounding predicted by dlib and convert it
+    # to the format (x, y, w, h) as we would normally do
+    # with OpenCV
+    x = rect.left()
+    y = rect.top()
+    w = rect.right() - x
+    h = rect.bottom() - y
+    # return a tuple of (x, y, w, h)
+    return (x, y, w, h)
 
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
@@ -89,7 +99,9 @@ def nothing(x): return 0
 
 print("[INFO] loading facial landmark predictor...")
 
-detector = dlib.get_frontal_face_detector()
+# hog + svm based face detector
+face_detector = dlib.get_frontal_face_detector()
+
 
 predictor = dlib.shape_predictor(args["shape_predictor"])
 
@@ -145,8 +157,8 @@ while True:
 
     if imageSrc in [MOVIE,WEBCAM]:
         frame = vs.read()
-        if vs.stopped:
-            break
+        #if vs.stopped:
+        #    break
 
     if imageSrc == IMAGE and frameID==0:
         frame = vs.read()
@@ -157,10 +169,16 @@ while True:
 
     # detect faces in the grayscale frame
     if frameID % 10 == 0:
-        faces = detector(gray, 0)
+        faces = face_detector(gray, 0)
 
     # loop over the face detections
     for rect in faces:
+
+        # convert dlib's rectangle to a OpenCV-style bounding box
+        # [i.e., (x, y, w, h)], then draw the face bounding box
+        (x, y, w, h) = face_utils.rect_to_bb(rect)
+        cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
+
         # determine the facial landmarks for the face region, then
         # convert the facial landmark (x, y)-coordinates to a NumPy
         # array
