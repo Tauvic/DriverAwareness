@@ -3,7 +3,7 @@
 System name: Safe Driver Coaching System
 
 ## How can we make driving safer? 
-<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg">
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
 The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
 
@@ -58,6 +58,7 @@ The collected data is kept on the device under full control of the driver and ca
        * Mouth yawning
   
   
+![img](doc/drivers_statefarm.png)  
  ## Challenges
  
  * Specification (domain knowledge)
