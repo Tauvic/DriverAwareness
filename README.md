@@ -11,10 +11,10 @@ Goals:
 The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitors the driver's behaviour during a road trip.
 
-When a driver enters the car he/she is automaticly recognized.
-During the trip the system provides immediate feedback on positive and negative behaviour.
-It warns when the driver gets tired and requires a break.
-It immediately alerts the driver when a dangerous situation occurs, such as texting while driving). 
+When a driver enters the car he/she is automatically recognized.
+During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
+It provides an audible warning when the driver gets tired and requires a break.
+It immediately alerts the driver when a dangerous situation occurs, such as texting while driving. 
 
 After each trip the system sends a summary to the driver's smartphone for quick review. When at home specific situations can be reviewed in depth with the Driving Coach App. The App will show snapshots or short video with detailed data and advise for improvement.
 
@@ -29,13 +29,13 @@ Monitor driver behavior:
     * Hands on the steering wheel
     * Looking to the general driving direction
     * Checking for traffic from all directions
-    * Rear mirror checking
+    * Left/right/rear mirror checking
    * Abstain from distractions
      * Mobile phone usage (handheld, call, texting)
-     * Operating the radio
+     * Operating the radio / airco
      * Talking to passengers
      * Eating or drinking
-     * Other (looking for something)
+     * Other (looking for something, singing)
    * Driver physics
      * Body, arm and hand position
      * Head pose (rotation, looking direction)
@@ -46,12 +46,19 @@ Monitor driver behavior:
   
   
  Tools and technology
- * Technology
-    * Head Pose estimation
-    * Face location, Face landmarks, Driver recognition
+ 
+ * Driver Sensors
+    * Face location (is there a driver)
+    * Driver recognition (who is driving)
+    * Head Pose estimation (looking direction)
+    * Face landmarks (eyes, mouth)
+    * Hand location (on steering wheel)
     * Image classification of dangerous situations
- *   OpenCV (CV2), Dlib, fast.ai
+ * Vehicle sensors
+    * Acceleration (left/right turn, breaking)
+    * Vehicle speed
  * Tools
+    * Python, OpenCV (CV2), Dlib, fast.ai
     * Python-video-annotator [code](https://github.com/chan0park/video-annotation-tool) / [documentation](https://pythonvideoannotator.readthedocs.io/en/master/index.html)
     * UAH DriveSet Reader [git](https://github.com/Tauvic/uah_driveset_reader)
  * Datasets
@@ -60,3 +67,7 @@ Monitor driver behavior:
     * Aontoine Lame GazeTracking [code](https://github.com/antoinelame/GazeTracking)
     * CNN Human face detector [model](http://arunponnusamy.com/files/mmod_human_face_detector.dat)
     * Example [code](https://github.com/spmallick/dlib)
+    
+    Selecting the best face detection method:
+    Source: Face Detection – OpenCV, Dlib and Deep Learning ( C++ / Python ) [link](https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/)
+    ![face-detection](doc/face-detection-comparison.jpg)
