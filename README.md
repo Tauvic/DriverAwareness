@@ -38,11 +38,17 @@ Monitor driver behavior:
   
   
  Tools and technology
- * Face location, Face landmarks, Driver recognition
- * Head Pose estimation
- * OpenCV (CV2), Dlib
- * Python-video-annotator [code](https://github.com/chan0park/video-annotation-tool) / [documentation](https://pythonvideoannotator.readthedocs.io/en/master/index.html)
- * Eyeblink8 [dataset](https://www.blinkingmatters.com/research)
- * Aontoine Lame GazeTracking [code](https://github.com/antoinelame/GazeTracking)
- * CNN Human face detector [model](http://arunponnusamy.com/files/mmod_human_face_detector.dat)
- * Example [code](https://github.com/spmallick/dlib)
+ * Technology
+    * Head Pose estimation
+    * Face location, Face landmarks, Driver recognition
+    * Image classification of dangerous situations
+ *   OpenCV (CV2), Dlib, fast.ai
+ * Tools
+    * Python-video-annotator [code](https://github.com/chan0park/video-annotation-tool) / [documentation](https://pythonvideoannotator.readthedocs.io/en/master/index.html)
+ *   UAH DriveSet Reader [git](https://github.com/Tauvic/uah_driveset_reader)
+ * Datasets
+    * Eyeblink8 [dataset](https://www.blinkingmatters.com/research)
+ * Example code:
+    * Aontoine Lame GazeTracking [code](https://github.com/antoinelame/GazeTracking)
+    * CNN Human face detector [model](http://arunponnusamy.com/files/mmod_human_face_detector.dat)
+    * Example [code](https://github.com/spmallick/dlib)
