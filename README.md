@@ -3,17 +3,22 @@
 System name: Safe Driver Coaching System
 
 * Develop a basic prototype
-    * to learn more about the subject of safe driving
-    * to see if its possible to develop a cost effective solution
+    * learn more about the subject of safe driving, sensors, data processing, machine learning
+    * to find out if its possible to develop a cost effective solution
     * to demonstrate its capabilities
-* If this step succeeds try to interest parties to actually develop and use such systems
+* If this first step succeeds, try to interest parties to actually develop and use such systems
 * If not then I have lost nothing and learned a lot.
 
-Goal:
+Use case:
 * Promote safe driving habits
 * Improve safe driving behaviour
 * Help to prevent car accidents
 * Lower costs for society
+
+Possible business cases:
+* Car lease (safety as a service, reduce accidents)
+* Insurance (reduce accidents)
+* Road service organization (safety for its members)
 
 Description:
 
@@ -72,10 +77,13 @@ Monitor driver behavior:
     * UAH DriveSet Reader [git](https://github.com/Tauvic/uah_driveset_reader)
  * Datasets
     * Eyeblink8 [dataset](https://www.blinkingmatters.com/research)
+    * Columbia Gaze DataSet [link](https://www.cs.columbia.edu/CAVE/databases/columbia_gaze/)
+ * Example solutions
+   * Futurebridge [link](https://www.futurebridge.com/blog/driver-monitoring-from-essential-safety-to-passenger-wellness/)
  * Example code:
+    * Learn Open CV Examples [code](https://github.com/spmallick/dlib)
     * Aontoine Lame GazeTracking [code](https://github.com/antoinelame/GazeTracking)
     * CNN Human face detector [model](http://arunponnusamy.com/files/mmod_human_face_detector.dat)
-    * Example [code](https://github.com/spmallick/dlib)
     
     Selecting the best face detection method:
     Source: Face Detection – OpenCV, Dlib and Deep Learning ( C++ / Python ) [link](https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/)
