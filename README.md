@@ -10,10 +10,14 @@ Goals:
 
 The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. The system is based on a camera that monitors the driver's behaviour during a road trip.
 
-When a driver enters the car he/she is automaticly recognized or a new profile is created for analyzing driver performance.
-The system provides immediate feedback on positive and negative behaviour. It warns when the driver gets tired and requires a break. It immediately alerts the driver when a dangerous situation occurs, such as texting while driving). 
+When a driver enters the car he/she is automaticly recognized.
+During the trip the system provides immediate feedback on positive and negative behaviour.
+It warns when the driver gets tired and requires a break.
+It immediately alerts the driver when a dangerous situation occurs, such as texting while driving). 
 
 After each trip the system sends a summary to the driver's smartphone for quick review. When at home specific situations can be reviewed in depth with the Driving Coach App. The App will show snapshots or short video with detailed data and advise for improvement.
+
+The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
 
 ![image](doc/driver-monitoring.jpg )
 
