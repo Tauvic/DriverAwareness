@@ -8,7 +8,8 @@ Goals:
 * Change driver behaviour
 * Help to prevent car accidents
 
-The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. The system is based on a camera that monitors the driver's behaviour during a road trip.
+The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
+The system is based on a camera and sensors that monitors the driver's behaviour during a road trip.
 
 When a driver enters the car he/she is automaticly recognized.
 During the trip the system provides immediate feedback on positive and negative behaviour.
