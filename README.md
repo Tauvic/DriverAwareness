@@ -46,8 +46,6 @@ The App will show snapshots or short video with detailed data and advise for imp
 
 The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
 
-<a href="https://www.youtube.com/watch?v=lIt8yz-bxBI"/>
-
 ## Monitoring driver behavior
 
   * Good driving habits
@@ -73,9 +71,14 @@ The collected data is kept on the device under full control of the driver and ca
   
   
 ![img](doc/drivers_statefarm.png)  
+
+
  ## Challenges
  
- * Specification (domain knowledge)
+ * System design
+     * Specifications (domain knowledge
+     * Determine actual driving state based on sensor data
+     * Combine driving state with driver activity and evaluate its behavior (scoring)
  * System limitations (processing power, battery consumption, operating system)
  * Physical conditions
     * Lighting conditions
