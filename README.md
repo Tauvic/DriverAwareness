@@ -2,6 +2,12 @@
 
 System name: Safe Driver Coaching System
 
+## How can we make driving safer? 
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/driver-monitoring.jpg">
+The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
+The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
+
+
 * Develop a basic prototype
     * learn more about the subject of safe driving, sensors, data processing, machine learning
     * find out if its possible to develop a cost effective solution
@@ -22,9 +28,6 @@ Possible business cases:
 * Road service organizations (safety for its members)
 
 Description:
-
-The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
-The system is based on a camera and sensors that monitors the driver's behaviour during a road trip.
 
 When a driver enters the car he/she is automatically recognized.
 During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
@@ -72,6 +75,17 @@ Monitor driver behavior:
        * Mouth yawning
   
   
+ Challenges:
+ * Specification (domain knowledge)
+ * System limitations (processing power, battery consumption, operating system)
+ * Physical conditions
+    * Lighting conditions
+    * Vibrations
+    * Mounting (where, how, car types)
+ * Calibration & Testing (test data)
+ * Legal issues
+ 
+ 
  Tools and technology
  
  * Driver Sensors
@@ -89,8 +103,10 @@ Monitor driver behavior:
     * Python-video-annotator [code](https://github.com/chan0park/video-annotation-tool) / [documentation](https://pythonvideoannotator.readthedocs.io/en/master/index.html)
     * UAH DriveSet Reader [git](https://github.com/Tauvic/uah_driveset_reader)
  * Datasets
+    * StateFarm Distracted Driver dataset [link](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
     * Eyeblink8 [dataset](https://www.blinkingmatters.com/research)
     * Columbia Gaze DataSet [link](https://www.cs.columbia.edu/CAVE/databases/columbia_gaze/)
+    * DMD - Driving Monitoring Dataset [link](https://dmd.vicomtech.org/)
  * Example solutions
    * Futurebridge [link](https://www.futurebridge.com/blog/driver-monitoring-from-essential-safety-to-passenger-wellness/)
  * Example code:
@@ -99,6 +115,7 @@ Monitor driver behavior:
     * Ground AI Real-Time Driver State Monitoring
                 Using a CNN Based Spatio-Temporal Approach*
 [link](https://www.groundai.com/project/real-time-driver-state-monitoring-using-a-cnn-based-spatio-temporal-approach/1)
+    * Gaurav Shadev Drowsiness Detection [github](https://github.com/Gauravsahadev/Drowsiness-detection-and-alert-system-DDAS-)
     * Aontoine Lame GazeTracking [code](https://github.com/antoinelame/GazeTracking)
     * CNN Human face detector [model](http://arunponnusamy.com/files/mmod_human_face_detector.dat)
     
