@@ -16,19 +16,14 @@ Image source: Valeo [link](https://www.valeo.com/en/driver-monitoring/)
 * If this first step succeeds, try to interest parties to actually develop and use such systems
 * If not then I have lost nothing and learned a lot.
 
-## Use case
-* Promote safe driving habits
-* Improve safe driving behaviour
-* Help to prevent car accidents
-* Make Driver Monitoring systems available for low cost
-* Lower costs for society
+|Use case|Business case|
+|----------|-----------|
+|* Promote safe driving habits|* Car lease (safety as a service, reduce car accidents)
+| * Improve safe driving behaviour|* Insurance (reduce car accidents)
+| * Help to prevent car accidents|* Road service organizations (safety for its members)
+| * Make Driver Monitoring systems available for low cost|
+| * Lower costs for society|
 
-## Possible business cases:
-* Car lease (safety as a service, reduce car accidents)
-* Insurance (reduce car accidents)
-* Road service organizations (safety for its members)
-
-## Description
 
 When a driver enters the car he/she is automatically recognized.
 During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
@@ -39,7 +34,7 @@ After each trip the system sends a summary to the driver's smartphone for quick 
 
 The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
 
-<a href="https://www.youtube.com/watch?v=lIt8yz-bxBI">
+<a href="https://www.youtube.com/watch?v=lIt8yz-bxBI"/>
 
 ## Monitor driver behavior
 
