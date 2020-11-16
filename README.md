@@ -3,11 +3,9 @@
 System name: Safe Driver Coaching System
 
 ## How can we make driving safer? 
-<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/driver-monitoring.jpg">
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg">
 The "Driver Coach" will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
-
-Image source: Valeo [link](https://www.valeo.com/en/driver-monitoring/)
 
 * Develop a basic prototype
     * learn more about the subject of safe driving, sensors, data processing, machine learning
@@ -24,7 +22,7 @@ Image source: Valeo [link](https://www.valeo.com/en/driver-monitoring/)
 | * Make Driver Monitoring systems available for low cost|
 | * Lower costs for society|
 
-
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/driver-monitoring.jpg">
 When a driver enters the car he/she is automatically recognized.
 During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
 It provides an audible warning when the driver gets tired and requires a break.
