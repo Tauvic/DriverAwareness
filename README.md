@@ -2,17 +2,17 @@
 
 System name: Safe Driver Coaching System
 
-## How can we make driving safer? 
+## Why we all should have a personal driving coach
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
-Its so easy to get distracted. The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
-The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
-
-## Why we should have a personal driving coach
 
 Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
 A system that helps the driver to focus its attention on driving can reduce injuries and damages.
 My objective is to develop an affordable personal driving coach that will help the driver.
 Therefore I have open sourced my code and hope companies and organisations will step in and take over.
+
+## How can we make driving safer? 
+Its so easy to get distracted. The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
+The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
 
 |Use case|Business case|
 |----------|-----------|
