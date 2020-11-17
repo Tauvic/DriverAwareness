@@ -43,7 +43,7 @@ Such a system is however more complex and costly to develop and implement. An op
 | * Lower costs for society|
 
 A good starting point would be Driving schools, they could use these devices in their daily practice. 
-And lend them to their customers when they practice under parental supervision.
+And lend them to their customers when they practice under parental supervision. By lending them to young drivers on training, consumers will getting used to these devices and this will lead to general acceptance.
 
 ### Following a step by step approach
 
