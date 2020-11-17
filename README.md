@@ -82,6 +82,7 @@ Data can be shared with selected parties for specific applications such as an in
 
 ## Monitoring driver behavior
 
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/turn-signaling.jpg"/>
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/OpenCV-Facemark.jpg"/>
 
   * Good driving habits
