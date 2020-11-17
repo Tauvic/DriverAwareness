@@ -69,7 +69,7 @@ I decided to try to develop one myself to see how far I can come. Its an interes
 When a driver enters the car he/she is automatically recognized.
 During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
 It provides an audible warning when the driver gets tired and requires a break.
-It immediately alerts the driver when a dangerous situation occurs, such as texting while driving. 
+It immediately alerts the driver when a dangerous situation occurs, such as changing direction without signaling or texting while driving. 
 
 
 
