@@ -11,7 +11,7 @@ The system is based on a camera and sensors that monitor the driver's behaviour 
 
 Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
 A system that helps the driver to focus its attention on driving can reduce injuries and damages.
-My objective is to develop an afforbable personal driving coach that will help the driver.
+My objective is to develop an affordable personal driving coach that will help the driver.
 Therefore I have open sourced my code and hope companies and organisations will step in and take over.
 
 |Use case|Business case|
