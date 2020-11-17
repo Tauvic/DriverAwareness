@@ -22,7 +22,7 @@ The system is based on a camera and sensors that monitor the driver's behaviour 
 | * Make Driver Monitoring systems available for low cost|* Driving school (feedback)
 | * Lower costs for society|
 
-My plan is to develop a demo to verify its feasibility, then a prototype to further investigate requirements.
+The plan is to setup a demo to verify its feasibility, then to develop a prototype to further investigate requirements.
 
 
 ### Following a step by step approach
@@ -57,6 +57,8 @@ The App will show snapshots or short video with detailed data and advise for imp
 The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
 
 ## Monitoring driver behavior
+
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/OpenCV-Facemark.jpg"/>
 
   * Good driving habits
     * Wearing seat belt
