@@ -74,7 +74,8 @@ After each trip the system sends a summary to the driver's smartphone for quick 
 When at home specific situations can be reviewed in depth with the Driving Coach App. 
 The App will show snapshots or short video with detailed data and advise for improvement.
 
-The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
+The collected data is kept on the device under full control of the driver and can be deleted when required.
+Data can be shared with selected parties for specific applications such as an insurance company or a safe driver leader board  where drivers can compare themselves with other drivers.
 
 ## Monitoring driver behavior
 
