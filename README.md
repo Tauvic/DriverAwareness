@@ -29,9 +29,9 @@ How can we get the best for everyone? Companies that care about social responsib
 design a system that provides real benefits for their customers.
 Such a system is however more complex and costly to develop and implement. An open source solution might be helpful to reduce cost if its flexible enough to be adapted to specific requirements.
 
-**So the main question is: How can we develop an affordable and flexible solution**
+**So the main question is: How can we develop an affordable and flexible solution that provides benefits for all**
 
-|Use case|Business case|
+|Consumer|Business case|
 |----------|-----------|
 |* Promote safe driving habits|* Car lease (safety as a service, reduce car accidents)
 | * Improve safe driving behaviour|* Insurance (reduce car accidents)
