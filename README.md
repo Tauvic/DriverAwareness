@@ -90,10 +90,10 @@ Data can be shared with selected parties for specific applications such as an in
     * Left/right/rear mirror checking
    * Abstain from distractions
      * Mobile phone usage (handheld, call, texting)
-     * Operating the radio / airco
+     * Operating the console (radio / airco)
      * Talking to passengers
      * Eating or drinking
-     * Other (looking for something, singing)
+     * Other (reaching for something, singing)
    * Driver physics
      * Body, arm and hand position
      * Head pose (rotation, looking direction)
