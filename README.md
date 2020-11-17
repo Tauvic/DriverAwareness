@@ -14,7 +14,7 @@ Therefore I have open sourced my code and hope companies and organisations will 
 ## How can we make driving safer for every party involved and what does it cost? 
 Its so easy to get distracted when your loved on sits next to you in the car or when you start day dreaming. 
 The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
-The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
+The system is based on a camera and sensors that monitor the driver's behaviour during a road trip. We not only check for driver drowsiness but also for active signs of alertness such as frequent mirror checking especially when changing direction. 
 
 Currently most car lease and insurance companies focus on detection of dangerous driving situations. 
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
