@@ -91,6 +91,7 @@ Data can be shared with selected parties for specific applications such as an in
     * Looking to the general driving direction
     * Checking for traffic from all directions
     * Left/right/rear mirror checking
+    * Signalling direction changes to other drivers
    * Abstain from distractions
      * Mobile phone usage (handheld, call, texting)
      * Operating the console (radio / airco)
