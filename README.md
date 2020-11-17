@@ -39,7 +39,7 @@ Such a system is however more complex and costly to develop and implement. An op
 |* Promote safe driving habits|* Car lease (safety as a service, reduce car accidents)
 | * Improve safe driving behaviour|* Insurance (reduce car accidents)
 | * Help to prevent car accidents|* Road service organizations (safety for its members)
-| * Make Driver Monitoring systems available for low cost|* Driving school (feedback)
+| * Make Driver Monitoring systems available for low cost|* Driving school (better feedback, better results)
 | * Lower costs for society|
 
 A good starting point would be Driving schools, they could use these devices in their daily practice. 
