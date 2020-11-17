@@ -2,7 +2,7 @@
 
 System name: Safe Driver Coaching System
 
-## Why we all should have a personal driving coach
+## Why we all should have our personal driving coach
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
 
 Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
