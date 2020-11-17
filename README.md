@@ -7,9 +7,27 @@ System name: Safe Driver Coaching System
 Its so easy to get distracted. The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
 
+## Why we should have a personal driving coach
+
+Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
+A system that helps the driver to focus its attention on driving can reduce injuries and damages.
+My objective is to develop an afforbable personal driving coach that will help the driver.
+Therefore I have open sourced my code and hope companies and organisations will step in and take over.
+
+|Use case|Business case|
+|----------|-----------|
+|* Promote safe driving habits|* Car lease (safety as a service, reduce car accidents)
+| * Improve safe driving behaviour|* Insurance (reduce car accidents)
+| * Help to prevent car accidents|* Road service organizations (safety for its members)
+| * Make Driver Monitoring systems available for low cost|* Driving school (feedback)
+| * Lower costs for society|
+
+My plan is to develop a demo to verify its feasibility, then a prototype to further investigate requirements.
+
+
 ### Following a step by step approach
 
-Developing a driver monitoring system is not a trivial task. And there are several ways to get there. 
+Developing a driver monitoring system is not a trivial task, and there are several ways to get there. 
 The easiest is of course just to buy such a system from a reliable supplier or develop one using a toolkit. 
 But this may be expensive or not suit your needs. And how do you get the expertise to choose the right solution?
 I decided to try to develop one myself to see how far I can come. Its an interesting project.
@@ -21,14 +39,6 @@ I decided to try to develop one myself to see how far I can come. Its an interes
     * demonstrate its capabilities
 * If this first step succeeds, try to interest parties to actually further develop and use such systems
 * If not then I have lost nothing and learned a lot.
-
-|Use case|Business case|
-|----------|-----------|
-|* Promote safe driving habits|* Car lease (safety as a service, reduce car accidents)
-| * Improve safe driving behaviour|* Insurance (reduce car accidents)
-| * Help to prevent car accidents|* Road service organizations (safety for its members)
-| * Make Driver Monitoring systems available for low cost|
-| * Lower costs for society|
 
 ## How the system works
 
