@@ -17,7 +17,8 @@ Its so easy to get distracted when your loved on sits next to you in the car or 
 The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
 The system is based on a camera and sensors that monitor the driver's behaviour during a road trip. We not only check for driver drowsiness but also for active signs of alertness such as frequent mirror checking especially when changing direction. 
 
-Currently most car lease and insurance companies focus on detection of dangerous driving situations. 
+
+Currently most car lease and insurance companies focus on a limited set of detection of dangerous driving situations such as speeding, cornering and hard breaking. 
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
 This approach provides valuable information for determining insurance risk on an individual base and is relative cheap and easy to implement.
 
