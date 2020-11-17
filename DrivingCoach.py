@@ -255,8 +255,8 @@ while True:
     key = cv2.waitKey(1) & 0xFF
     fps.update()
 
-    # if the `q` key was pressed, break from the loop
-    if key == ord("q"):
+    # if the `q` or escape key was pressed, break from the loop
+    if key in [ord("q"), 27]:
         break
 
     if log_file:
