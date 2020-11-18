@@ -1,6 +1,4 @@
-# Driver Safety Awareness project
-
-System name: Safe Driver Coaching System
+# The business case: Safe Driver Coaching System
 
 ## Why we all should have our personal driving coach
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
@@ -30,8 +28,6 @@ How can we get the best for everyone? Companies that care about social responsib
 design a system that provides real benefits for their customers.
 Such a system is however more complex and costly to develop and implement. An open source solution might be helpful to reduce cost if its flexible enough to be adapted to specific requirements.
 
-![design](doc/DriverCoach.png)
-
 **So the main question is: How can we develop an affordable and flexible solution that provides benefits for all**
 
 |Consumer|Business case|
@@ -45,7 +41,27 @@ Such a system is however more complex and costly to develop and implement. An op
 A good starting point would be Driving schools, they could use these devices in their daily practice. 
 And lend them to their customers when they practice under parental supervision. By lending them to young drivers on training, consumers will getting used to these devices and this will lead to general acceptance.
 
-### Following a step by step approach
+# How to develop and implement
+
+## How the system works
+
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/driver-monitoring.jpg">
+When a driver enters the car he/she is automatically recognized with face recognition.
+During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
+It provides an audible warning when the driver gets tired and requires a break.
+It immediately alerts the driver when a dangerous situation occurs, such as changing direction without signaling or texting while driving. 
+
+![design](doc/DriverCoach.png)
+
+
+After each trip the system sends a summary to the driver's smartphone for quick review. 
+When at home specific situations can be reviewed in depth with the Driving Coach App. 
+The App will show snapshots or short video with detailed data and advise for improvement.
+
+The collected data is kept on the device under full control of the driver and can be deleted when required.
+Data can be shared with selected parties for specific applications such as an insurance company or a safe driver leader board  where drivers can compare themselves with other drivers.
+
+## Following a step by step approach
 
 The plan is to setup a demo to verify its feasibility, then to develop a prototype to further investigate requirements.
 
@@ -63,22 +79,10 @@ I decided to try to develop one myself to see how far I can come. Its an interes
 * If this first step succeeds, try to interest parties to actually further develop and use such systems
 * If not then I have lost nothing and learned a lot.
 
-## How the system works
+For now im evaluating some vision and machine learning toolkits such as OpenCV and Google MediaPipe. 
+Deployment on Smartphone or IoT devices such asCoral Dev Board
+ 
 
-<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/driver-monitoring.jpg">
-When a driver enters the car he/she is automatically recognized.
-During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
-It provides an audible warning when the driver gets tired and requires a break.
-It immediately alerts the driver when a dangerous situation occurs, such as changing direction without signaling or texting while driving. 
-
-
-
-After each trip the system sends a summary to the driver's smartphone for quick review. 
-When at home specific situations can be reviewed in depth with the Driving Coach App. 
-The App will show snapshots or short video with detailed data and advise for improvement.
-
-The collected data is kept on the device under full control of the driver and can be deleted when required.
-Data can be shared with selected parties for specific applications such as an insurance company or a safe driver leader board  where drivers can compare themselves with other drivers.
 
 ## Monitoring driver behavior
 
