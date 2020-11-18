@@ -5,25 +5,23 @@ System name: Safe Driver Coaching System
 ## Why we all should have our personal driving coach
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
 
-Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
 Strangely enough dangerous driving is NOT the main cause of accidents.
+Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
 A system that helps the driver to focus its attention on driving can reduce injuries and damages.
-My objective is to develop an affordable personal driving coach that will help the driver.
-Therefore I have open sourced my code and hope companies and organisations will step in and take over.
+My objective is to develop an affordable personal driving coach that will help the driver to improve its driving.
+There fore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.
 
-## How can we make driving safer for every party involved and what does it cost? 
+## How can we make driving safer for every party involved? 
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/mirror-checking.jpg"/>
 Its so easy to get distracted when your loved on sits next to you in the car or when you start day dreaming. 
 The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
-The system is based on a camera and sensors that monitor the driver's behaviour during a road trip. We not only check for driver drowsiness but also for active signs of alertness such as frequent mirror checking especially when changing direction. 
-
-
+The system is based on a camera and sensors that monitor the driver's behaviour during a road trip. 
+It will check for driver drowsiness but also for active signs of alertness such as frequent mirror checking especially when changing direction. 
 
 Currently most car lease and insurance companies focus on the detection of a limited set of dangerous driving situations such as speeding, cornering and hard breaking. 
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
 This approach provides valuable information for determining insurance risk on an individual base and is relative cheap and easy to implement.
 
-For the driver these Apps are far less useful.
 Drivers usually know when they have aggresive driving habits (speeding or hard breaking).
 From a safety perspective the driver is better helped with a system that monitors driver alertness and warns him in potential dangerous situations.
 This will reduce their chance of getting an accident with 57 percent.
@@ -31,6 +29,8 @@ This will reduce their chance of getting an accident with 57 percent.
 How can we get the best for everyone? Companies that care about social responsibility to their customers should consider all previous arguments and 
 design a system that provides real benefits for their customers.
 Such a system is however more complex and costly to develop and implement. An open source solution might be helpful to reduce cost if its flexible enough to be adapted to specific requirements.
+
+![design](doc/DriverCoach.png)
 
 **So the main question is: How can we develop an affordable and flexible solution that provides benefits for all**
 
