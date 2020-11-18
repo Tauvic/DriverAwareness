@@ -12,11 +12,14 @@ My objective is to develop an affordable personal driving coach that will help t
 Therefore I have open sourced my code and hope companies and organisations will step in and take over.
 
 ## How can we make driving safer for every party involved and what does it cost? 
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/mirror-checking.jpg"/>
 Its so easy to get distracted when your loved on sits next to you in the car or when you start day dreaming. 
 The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
-The system is based on a camera and sensors that monitor the driver's behaviour during a road trip.
+The system is based on a camera and sensors that monitor the driver's behaviour during a road trip. We not only check for driver drowsiness but also for active signs of alertness such as frequent mirror checking especially when changing direction. 
 
-Currently most car lease and insurance companies focus on detection of dangerous driving situations. 
+
+
+Currently most car lease and insurance companies focus on the detection of a limited set of dangerous driving situations such as speeding, cornering and hard breaking. 
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
 This approach provides valuable information for determining insurance risk on an individual base and is relative cheap and easy to implement.
 
@@ -29,18 +32,18 @@ How can we get the best for everyone? Companies that care about social responsib
 design a system that provides real benefits for their customers.
 Such a system is however more complex and costly to develop and implement. An open source solution might be helpful to reduce cost if its flexible enough to be adapted to specific requirements.
 
-**So the main question is: How can we develop an affordable and flexible solution**
+**So the main question is: How can we develop an affordable and flexible solution that provides benefits for all**
 
-|Use case|Business case|
+|Consumer|Business case|
 |----------|-----------|
 |* Promote safe driving habits|* Car lease (safety as a service, reduce car accidents)
 | * Improve safe driving behaviour|* Insurance (reduce car accidents)
 | * Help to prevent car accidents|* Road service organizations (safety for its members)
-| * Make Driver Monitoring systems available for low cost|* Driving school (feedback)
+| * Make Driver Monitoring systems available for low cost|* Driving school (better feedback, better results)
 | * Lower costs for society|
 
 A good starting point would be Driving schools, they could use these devices in their daily practice. 
-And lend them to their customers when they practice under parental supervision.
+And lend them to their customers when they practice under parental supervision. By lending them to young drivers on training, consumers will getting used to these devices and this will lead to general acceptance.
 
 ### Following a step by step approach
 
@@ -66,7 +69,7 @@ I decided to try to develop one myself to see how far I can come. Its an interes
 When a driver enters the car he/she is automatically recognized.
 During the trip the system continuously determines the actual driving situation (parked, cruising, braking, turning) and evaluates the drivers activity and behaviour.
 It provides an audible warning when the driver gets tired and requires a break.
-It immediately alerts the driver when a dangerous situation occurs, such as texting while driving. 
+It immediately alerts the driver when a dangerous situation occurs, such as changing direction without signaling or texting while driving. 
 
 
 
@@ -74,10 +77,12 @@ After each trip the system sends a summary to the driver's smartphone for quick 
 When at home specific situations can be reviewed in depth with the Driving Coach App. 
 The App will show snapshots or short video with detailed data and advise for improvement.
 
-The collected data is kept on the device under full control of the driver and can be deleted when required. Data can be shared anonymously for specific applications such as a safe driver leader board  where drivers can compare themselves with other drivers.
+The collected data is kept on the device under full control of the driver and can be deleted when required.
+Data can be shared with selected parties for specific applications such as an insurance company or a safe driver leader board  where drivers can compare themselves with other drivers.
 
 ## Monitoring driver behavior
 
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/turn-signalling.jpg"/>
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/OpenCV-Facemark.jpg"/>
 
   * Good driving habits
@@ -87,12 +92,13 @@ The collected data is kept on the device under full control of the driver and ca
     * Looking to the general driving direction
     * Checking for traffic from all directions
     * Left/right/rear mirror checking
+    * Signalling direction changes to other drivers
    * Abstain from distractions
      * Mobile phone usage (handheld, call, texting)
-     * Operating the radio / airco
+     * Operating the console (radio / airco)
      * Talking to passengers
      * Eating or drinking
-     * Other (looking for something, singing)
+     * Other (reaching for something, singing)
    * Driver physics
      * Body, arm and hand position
      * Head pose (rotation, looking direction)
