@@ -79,8 +79,8 @@ I decided to try to develop one myself to see how far I can come. Its an interes
 * If this first step succeeds, try to interest parties to actually further develop and use such systems
 * If not then I have lost nothing and learned a lot.
 
-For now im evaluating some vision and machine learning toolkits such as OpenCV and Google MediaPipe. 
-Deployment on Smartphone or IoT devices such asCoral Dev Board
+For now im evaluating some vision and machine learning toolkits such as [OpenCV](https://opencv.org/) and [Google MediaPipe](https://google.github.io/mediapipe/). 
+Deployment on Smartphone or IoT devices such as [Coral Dev Board](http://coral.ai)
  
 
 
