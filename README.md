@@ -5,7 +5,7 @@ System name: Safe Driver Coaching System
 ## Why we all should have our personal driving coach
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
 
-Strangely enough dangerous driving is NOT the main cause of accidents.
+Strangely enough dangerous driving such as speeding and hard breaking is NOT the main cause of accidents.
 Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
 A system that helps the driver to focus its attention on driving can reduce injuries and damages.
 My objective is to develop an affordable personal driving coach that will help the driver to improve its driving.
