@@ -38,8 +38,9 @@ Such a system is however more complex and costly to develop and implement. An op
 | * Make Driver Monitoring systems available for low cost|* Driving school (better feedback, better results)
 | * Lower costs for society|
 
-A good starting point would be Driving schools, they could use these devices in their daily practice. 
-And lend them to their customers when they practice under parental supervision. By lending them to young drivers on training, consumers will getting used to these devices and this will lead to general acceptance.
+A good starting point to introduce this system would be driving schools.
+They could use these devices in their daily practice and lend them to their customers when they practice under parental supervision. 
+By lending them to young drivers on training, consumers will getting used to these devices and this will lead to general acceptance.
 
 # How to develop and implement
 
