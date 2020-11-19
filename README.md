@@ -14,16 +14,14 @@ There fore I open sourced this plan and its code and hope others including compa
 Its so easy to get distracted when your loved on sits next to you in the car or when you start day dreaming. 
 The "Driver Coach" is a smart system installed in your car that will provide feedback just like any regular driving coach. 
 The system is based on a camera, sensors and machine learning that monitor the driver's behaviour during a road trip. 
-It will see how you act as a driver, how you prepare for a turn by checking your mirrors
-and finally will check for driver drowsiness and warn you to take a break.
+It will evaluate how you act as a driver in specific circumstances. For example how you prepare for a turn by checking your mirrors.
+It will also monitor for driver drowsiness and warn you to take a break.
 
-Currently most car lease and insurance companies focus on the detection of a limited set of dangerous driving situations such as speeding, cornering and hard breaking. 
+Currently most car lease and insurance companies focus on reduction of aggressive driving habits (speeding or hard breaking).
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
-This approach provides valuable information for determining insurance risk on an individual base and is relative cheap and easy to implement.
-
-Drivers usually know when they have aggresive driving habits (speeding or hard breaking).
+But this approach is less effective to reduce accidents. Drivers usually know when they have aggressive driving habits.
 From a safety perspective the driver is better helped with a system that monitors driver alertness and warns him in potential dangerous situations.
-This will reduce their chance of getting an accident with 57 percent.
+This will reduce their chance of getting into an accident with 57 percent.
 
 How can we get the best for everyone? Companies that care about social responsibility to their customers should consider all previous arguments and 
 design a system that provides real benefits for their customers.
