@@ -1,4 +1,4 @@
-# The business case: Safe Driver Coaching System
+# The Safe Driver Coaching System
 
 ## A personal driving coach can make driving 57% safer
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
@@ -17,6 +17,7 @@ The system is based on a camera, sensors and machine learning that monitor the d
 It will evaluate how you act as a driver in specific circumstances. For example how you prepare for a turn by checking your mirrors.
 It will also monitor for driver drowsiness and warn you to take a break.
 
+## The business case
 Currently most car lease and insurance companies focus on reduction of aggressive driving habits (speeding or hard breaking).
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
 But this approach is less effective to reduce accidents. Drivers usually know when they have aggressive driving habits.
