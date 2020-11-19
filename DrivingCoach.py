@@ -14,8 +14,11 @@ import imutils
 import time
 import dlib
 import cv2
+import logging
 from numpy_ringbuffer import RingBuffer
 
+FORMAT = '%(asctime)-15s %(clientip)s %(user)-8s %(message)s'
+logging.basicConfig(format=FORMAT)
 
 def sound_alarm(path):
     # play an alarm sound
@@ -68,7 +71,7 @@ args = vars(ap.parse_args())
 # frames the eye must be below the threshold for to set off the
 # alarm
 EYE_AR_THRESH = 2
-EYE_AR_CONSEC_FRAMES = 48
+EYE_AR_CONSEC_FRAMES = 8 #48
 
 # initialize the frame counter as well as a boolean used to
 # indicate if the alarm is going off
@@ -135,6 +138,7 @@ elif args["image"]:
 else:
     vs = VideoStream(src=args["webcam"])
     imageSrc = WEBCAM
+    #logging.info(f'fps: {vs.get(cv2.CAP_PROP_FPS):%.1f}')
     time.sleep(1.0)
 
 if args["log"]:

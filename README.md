@@ -1,6 +1,6 @@
 # The business case: Safe Driver Coaching System
 
-## Why we all should have our personal driving coach
+## A personal driving coach can make driving 57% safer
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/distracted.jpg"/>
 
 Strangely enough dangerous driving such as speeding and hard breaking is NOT the main cause of accidents.
@@ -9,12 +9,13 @@ A system that helps the driver to focus its attention on driving can reduce inju
 My objective is to develop an affordable personal driving coach that will help the driver to improve its driving.
 There fore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.
 
-## How can we make driving safer for every party involved? 
+## How can we make driving safer for every one? 
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/mirror-checking.jpg"/>
 Its so easy to get distracted when your loved on sits next to you in the car or when you start day dreaming. 
-The "Driver Coach" is a system that will help the driver of a car to improve its safety by providing feedback just like any regular coach. 
-The system is based on a camera and sensors that monitor the driver's behaviour during a road trip. 
-It will check for driver drowsiness but also for active signs of alertness such as frequent mirror checking especially when changing direction. 
+The "Driver Coach" is a smart system installed in your car that will provide feedback just like any regular driving coach. 
+The system is based on a camera, sensors and machine learning that monitor the driver's behaviour during a road trip. 
+It will see how you act as a driver, how you prepare for a turn by checking your mirrors
+and finally will check for driver drowsiness and warn you to take a break.
 
 Currently most car lease and insurance companies focus on the detection of a limited set of dangerous driving situations such as speeding, cornering and hard breaking. 
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
@@ -127,7 +128,7 @@ Deployment on Smartphone or IoT devices such as [Coral Dev Board](http://coral.a
     * Vibrations
     * Mounting (where, how, car types)
  * Calibration & Testing (test data)
- * Legal issues
+ * Ethical and legal issues
  
  
 ## Tools and technology
@@ -162,6 +163,7 @@ Deployment on Smartphone or IoT devices such as [Coral Dev Board](http://coral.a
     * Gaurav Shadev Drowsiness Detection [github](https://github.com/Gauravsahadev/Drowsiness-detection-and-alert-system-DDAS-)
     * Aontoine Lame GazeTracking [code](https://github.com/antoinelame/GazeTracking)
     * CNN Human face detector [model](http://arunponnusamy.com/files/mmod_human_face_detector.dat)
+    * [DBSE-Monitor](https://github.com/altaga/DBSE-monitor)
     
     Selecting the best face detection method:
     Source: Face Detection – OpenCV, Dlib and Deep Learning ( C++ / Python ) [link](https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/)
