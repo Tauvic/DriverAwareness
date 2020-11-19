@@ -63,7 +63,7 @@ Data can be shared with selected parties for specific applications such as an in
 
 ## Following a step by step approach
 
-The plan is to setup a demo to verify its feasibility, then to develop a prototype to further investigate requirements.
+The plan is to setup a demo to verify its feasibility, then to develop a prototype for field testing to investigate its effectiveness.
 
 
 Developing a driver monitoring system is not a trivial task, and there are several ways to get there. 
@@ -79,8 +79,8 @@ I decided to try to develop one myself to see how far I can come. Its an interes
 * If this first step succeeds, try to interest parties to actually further develop and use such systems
 * If not then I have lost nothing and learned a lot.
 
-For now im evaluating some vision and machine learning toolkits such as [OpenCV](https://opencv.org/) and [Google MediaPipe](https://google.github.io/mediapipe/). 
-Deployment on Smartphone or IoT devices such as [Coral Dev Board](http://coral.ai)
+For now im evaluating some vision and machine learning toolkits such as [OpenCV](https://opencv.org/), [Microsoft OpenVino](https://docs.openvinotoolkit.org/latest/index.html) and [Google MediaPipe](https://google.github.io/mediapipe/). 
+Deployment on Smartphone or IoT devices such as [Coral Dev Board](http://coral.ai), [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
  
 
 
