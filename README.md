@@ -46,7 +46,7 @@ By lending them to young drivers on training, consumers will getting used to the
 
 # How to get user acceptance
 I think the biggest challenge is to convince people to use these kind of systems. 
-If largely depends on how effective it is in making driving safe and if we trust the system behind it is our friend.
+Acceptance depends on two factors: how effective it is in making driving safe and if we can trust the system behind it.
 The effectiveness has to be proven with field trials and the results must be verified and reported to the public.
 
 We all have our thoughts on devices that monitor us especially when we are making errors.
