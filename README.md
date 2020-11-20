@@ -7,7 +7,9 @@ Strangely enough dangerous driving such as speeding and hard breaking is NOT the
 Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
 A system that helps the driver to focus its attention on driving can reduce injuries and damages.
 My objective is to develop an affordable personal driving coach that will help the driver to improve its driving.
-There fore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.
+Therefore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.
+
+_You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)_
 
 ## How can we make driving safer for every one? 
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/mirror-checking.jpg"/>
@@ -41,6 +43,23 @@ Such a system is however more complex and costly to develop and implement. An op
 A good starting point to introduce this system would be driving schools.
 They could use these devices in their daily practice and lend them to their customers when they practice under parental supervision. 
 By lending them to young drivers on training, consumers will getting used to these devices and this will lead to general acceptance.
+
+# How to get user acceptance
+I think the biggest challenge is to convince people to use these kind of systems. 
+If largely depends on how effective it is in making driving safe and if we trust the system behind it is our friend.
+The effectiveness has to be proven with field trials and the results must be verified and reported to the public.
+
+We all have our thoughts on devices that monitor us especially when we are making errors.
+
+* How does it work
+* What kind of data is being processed
+* How does it make its decisions (criteria)
+* What will be done with conclusions
+* Who owns this data and has control over it
+* Can i put my trust in this system
+
+To get user acceptance I propose to publish the general design of the system so people can understand how it works and what it does.
+A further assurance might be an independent auditor, auditing the final product.
 
 # How to develop and implement
 
