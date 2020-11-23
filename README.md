@@ -10,6 +10,8 @@ My objective is to develop an affordable personal driving coach that will help t
 Therefore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.
 
 _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)_
+_Presentation [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRHttK1QIrXpzs1W75Ems-VAGZeEljflD4uH83o5VFrHQ5IMb9apDvCATzksJKMjitwCM8x3FE2rOyq/pub?start=true&loop=false&delayms=60000)
+
 
 ## How can we make driving safer for every one? 
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/mirror-checking.jpg"/>
