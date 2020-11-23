@@ -12,7 +12,7 @@ Therefore I open sourced this plan and its code and hope organisations will step
 
 _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)
 a link to the [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRHttK1QIrXpzs1W75Ems-VAGZeEljflD4uH83o5VFrHQ5IMb9apDvCATzksJKMjitwCM8x3FE2rOyq/pub?start=true&loop=false&delayms=60000)
-activities in [project](https://github.com/Tauvic/DriverAwareness/projects/1). Any help is welcome._
+, ongoing activities in [project](https://github.com/Tauvic/DriverAwareness/projects/1). Any help is welcome._
 
 
 ## How can we make driving safer for every one? 
