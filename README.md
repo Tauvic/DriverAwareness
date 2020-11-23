@@ -5,12 +5,13 @@
 
 Strangely enough dangerous driving such as speeding and hard breaking is NOT the main cause of accidents.
 Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
-A system that helps the driver to focus its attention on driving can reduce injuries and damages.
-My objective is to develop an affordable personal driving coach that will help the driver to improve its driving.
-Therefore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.
+A driver monitoring system that helps the driver to focus its attention on driving can reduce injuries and damages.
+
+**My objective is to convince organisations and companies to develop an affordable personal driving coach to make driving safer.
+Therefore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.**
 
 _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)_
-_Presentation [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRHttK1QIrXpzs1W75Ems-VAGZeEljflD4uH83o5VFrHQ5IMb9apDvCATzksJKMjitwCM8x3FE2rOyq/pub?start=true&loop=false&delayms=60000)
+_Presentation [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRHttK1QIrXpzs1W75Ems-VAGZeEljflD4uH83o5VFrHQ5IMb9apDvCATzksJKMjitwCM8x3FE2rOyq/pub?start=true&loop=false&delayms=60000)_
 
 
 ## How can we make driving safer for every one? 
