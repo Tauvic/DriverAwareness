@@ -43,7 +43,7 @@ The system is based on a camera, sensors and machine learning that monitor the d
 It will evaluate how you act as a driver in specific circumstances. For example how you prepare for a turn by checking your mirrors.
 It will also monitor for driver drowsiness and warn you to take a break.
    
- Note: the video is not the final product but included here to get a first impression ([EyeSight](https://www.eyesight-tech.com))
+ Note: the video is not the final product but included here to get a first impression ([Driver monitoring system from EyeSight](https://www.eyesight-tech.com))
 
 ## The business case
 Currently most car lease and insurance companies focus on reduction of aggressive driving habits (speeding or hard breaking).
