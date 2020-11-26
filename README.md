@@ -13,6 +13,8 @@ The driver coach system will check for 3D aspects:
 * Driving maneuvers (situational awareness, mirror checking)
 * Drowsiness (tired driver warning)
 
+Whats new in this approach is the idea of full 360 degrees driver behavior monitoring by including monitoring of "Driving maneuvers". As far as i know there is currently no system that monitors the driver while executing vehicle maneuvers such as making left/right turns.
+
 **The objective is to make driving safer by developing an affordable personal driving coach. Therefore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.**
 
 Approach:
