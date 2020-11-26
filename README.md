@@ -15,6 +15,13 @@ The driver coach system will check for 3D aspects:
 
 **The objective is to make driving safer by developing an affordable personal driving coach. Therefore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.**
 
+Approach:
+* Get more people involved in the project (developers, safety experts, lobbyers)
+* Develop a working demonstration to show its capabilities
+* Verify that the idea is sound and can result in a working solution
+* Develop software components and building blocks (software libraries, hardware design, system configurations)
+* Broadcast the idea
+
 _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)
 a link to the [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRHttK1QIrXpzs1W75Ems-VAGZeEljflD4uH83o5VFrHQ5IMb9apDvCATzksJKMjitwCM8x3FE2rOyq/pub?start=true&loop=false&delayms=60000)
 , ongoing activities in [project](https://github.com/Tauvic/DriverAwareness/projects/1). Any help is welcome._
