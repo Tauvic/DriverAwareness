@@ -24,8 +24,11 @@ Approach:
 * Verify that the idea is sound and can result in an affordable and fully functioning solution
 * Develop a working demonstration to show its capabilities
 * Develop software components and building blocks (software libraries, hardware design, system configurations)
+* Open source the idea, plans, methods and software libraries
 * Broadcast the idea, get organisations involved
 * Deliver a device that can do the job and is afforable for everyone
+
+There is a path from idea to a working solution that has to be discovered. This requirers significant effort and expertise. I hope people will step in to join. Organisations can join to and decide to contribute to he project or step out at some time and continue on their own. All for the greater good of mankind and ethernal glory.
 
 _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)
 a link to the [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRHttK1QIrXpzs1W75Ems-VAGZeEljflD4uH83o5VFrHQ5IMb9apDvCATzksJKMjitwCM8x3FE2rOyq/pub?start=true&loop=false&delayms=60000)
@@ -40,7 +43,7 @@ The system is based on a camera, sensors and machine learning that monitor the d
 It will evaluate how you act as a driver in specific circumstances. For example how you prepare for a turn by checking your mirrors.
 It will also monitor for driver drowsiness and warn you to take a break.
    
- Note the video is just an example source: DMS from [EyeSight](https://www.eyesight-tech.com)
+ Note: the video is not the final product but included here to get a first impression ([EyeSight](https://www.eyesight-tech.com))
 
 ## The business case
 Currently most car lease and insurance companies focus on reduction of aggressive driving habits (speeding or hard breaking).
