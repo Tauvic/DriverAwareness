@@ -17,8 +17,8 @@ The driver coach system will check for 3D aspects:
 
 Approach:
 * Get more people involved in the project (developers, safety experts, lobbyers)
+* Verify that the idea is sound and can result in an affordable and fully functioning solution
 * Develop a working demonstration to show its capabilities
-* Verify that the idea is sound and can result in a working solution
 * Develop software components and building blocks (software libraries, hardware design, system configurations)
 * Broadcast the idea, get organisations involved
 * Deliver a device that can do the job and is afforable for everyone
