@@ -7,7 +7,7 @@ Strangely enough dangerous driving such as speeding and hard breaking is NOT the
 Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
 The idea is to develop an advanced driver monitoring system based on camera vision and machine learning that helps the driver to focus its attention on driving to reduce injuries and damages.
 
-The driver coach system will check for 3D aspects:
+The driver coach system will check for all safety aspects (360 degrees 3D aspects):
 
 * Distractions (eating, drinking, phone usage)
 * Drowsiness (tired driver warning)
