@@ -20,7 +20,7 @@ Whats new in this approach is the idea of full 360 degrees driver behavior monit
 **The objective is to make driving safer by developing an affordable personal driving coach. Therefore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.**
 
 Approach:
-* Get more people involved in the project (developers, safety experts, lobbyers)
+* Get more people involved in the project (developers, safety experts, evangelistsm, test dummies)
 * Verify that the idea is sound and can result in an affordable and fully functioning solution
 * Develop a working demonstration to show its capabilities
 * Develop software components and building blocks (software libraries, hardware design, system configurations)
