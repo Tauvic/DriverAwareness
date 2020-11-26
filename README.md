@@ -9,7 +9,7 @@ The idea is to develop an advanced driver monitoring system based on camera visi
 
 The driver coach system will check for all safety aspects (360 degrees 3D aspects):
 
-* Distractions (eating :pizza:, drinking :beer:, phone usage :telephone_receiver:, loud music :musical_note:)
+* Distractions (eating, drinking, phone usage :telephone_receiver:, loud music :musical_note:)
 * Drowsiness (tired driver :zzz: warning :speaker:)
 * Driving maneuvers (situational awareness, mirror checking)
 
