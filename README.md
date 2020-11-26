@@ -48,7 +48,7 @@ It will also monitor for driver drowsiness and warn you to take a break.
 ## The business case
 Currently most car lease and insurance companies focus on reduction of aggressive driving habits (speeding or hard breaking).
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
-But this approach does not cover all aspects (distraction,drowsiness and driving maneuvers) and is therefore less effective to reduce accidents. Drivers usually know when they have aggressive driving habits. and aggressive drivers are usually not willing to change their habits. But cautious drivers are willing to learn and improve their driving skills. From a safety perspective the driver is better helped with a system that monitors driver alertness, warns them in potential dangerous situations and provides useful feedback. This will reduce their chance of getting into an accident with 57 percent.
+But this approach does not cover all aspects (distraction,drowsiness and driving maneuvers) and is therefore less effective to reduce accidents. Drivers usually know when they have aggressive driving habits. and aggressive drivers are usually not willing to change their habits. But cautious drivers are the majority and they are willing to learn and improve their driving skills in order to make their life safer. From a safety perspective the driver is better helped with a system that monitors driver alertness, warns them in potential dangerous situations and provides useful feedback for improving driving skills. This will reduce their chance of getting into an accident with 57 percent.
 
 How can we get the best for everyone? Companies that care about social responsibility to their customers should consider all previous arguments and 
 design a system that provides real benefits for their customers.
@@ -63,6 +63,7 @@ Such a system is however more complex and costly to develop and implement. An op
 | * Help to prevent car accidents|* Road service organizations (safety for its members)
 | * Make Driver Monitoring systems available for low cost|* Driving school (better feedback, better results)
 | * Lower costs for society|
+| * While keeping privacy|
 
 A good starting point to introduce this system would be driving schools.
 They could use these devices in their daily practice and lend them to their customers when they practice under parental supervision. 
