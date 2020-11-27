@@ -11,7 +11,7 @@ The driver coach system will check for all safety aspects (360 degrees 3D aspect
 
 * Warn for [Distractions](https://github.com/Tauvic/DriverAwareness/wiki/Distractions) (eating, drinking, phone usage :telephone_receiver:, loud music :musical_note:)
 * Alert for [Drowsiness](https://github.com/Tauvic/DriverAwareness/wiki/Drowsiness) (tired driver :zzz: wakeup sound :speaker:)
-* Improve [Driving skills](https://github.com/Tauvic/DriverAwareness/wiki/Driving-Maneuvers) (situational awareness, mirror checking)
+* Improve your [Driving skills](https://github.com/Tauvic/DriverAwareness/wiki/Driving-Maneuvers) (situational awareness, mirror checking)
 
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/mirror-checking.jpg"/>
 What's new in this approach is the idea of providing each driver with an AI based personal driving coach. The driving coach combines the knowledge of a group of expert driving coaches, assesses your driving and provides valuable feedback to make driving safer. As far as i know there is currently no system that monitors the driver while executing vehicle maneuvers.
