@@ -176,6 +176,7 @@ Deployment on Smartphone or IoT devices such as [Coral Dev Board](http://coral.a
  
  
 ## Tools and technology
+<a href="https://www.youtube.com/watch?v=uJ4w63wZyFQ"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/uJ4w63wZyFQ/0.jpg"/><a>
  
  * Driver Sensors
     * Face location (is there a driver)
