@@ -37,7 +37,7 @@ a link to the [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRH
 
 
 ## How can we make driving safer for every one? 
-<a href="https://www.youtube.com/watch?v=vAxRe8uPS3s"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/vAxRe8uPS3s/0.jpg"/><a>
+<a href="https://www.youtube.com/watch?v=uJ4w63wZyFQ"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/uJ4w63wZyFQ/0.jpg"/><a>
 Its so easy to get distracted when your loved on sits next to you in the car or when you start day dreaming. 
 The "Driver Coach" is a smart system installed in your car that will provide feedback just like any regular driving coach. 
 The system is based on a camera, sensors and machine learning that monitor the driver's behaviour during a road trip. 
@@ -177,7 +177,8 @@ Deployment on Smartphone or IoT devices such as [Coral Dev Board](http://coral.a
  
  
 ## Tools and technology
-<a href="https://www.youtube.com/watch?v=uJ4w63wZyFQ"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/uJ4w63wZyFQ/0.jpg"/><a>
+
+<a href="https://www.youtube.com/watch?v=vAxRe8uPS3s"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/vAxRe8uPS3s/0.jpg"/><a>
  
  * Driver Sensors
     * Face location (is there a driver)
