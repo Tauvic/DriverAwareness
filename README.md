@@ -9,9 +9,9 @@ The idea is to develop an advanced driver monitoring system based on camera visi
 
 The driver coach system will check for all safety aspects (360 degrees 3D aspects):
 
-* Distractions (eating, drinking, phone usage :telephone_receiver:, loud music :musical_note:)
-* Drowsiness (tired driver :zzz: warning :speaker:)
-* Driving maneuvers (situational awareness, mirror checking)
+* [Distractions](https://github.com/Tauvic/DriverAwareness/wiki/Distractions) (eating, drinking, phone usage :telephone_receiver:, loud music :musical_note:)
+* [Drowsiness](https://github.com/Tauvic/DriverAwareness/wiki/Drowsiness) (tired driver :zzz: warning :speaker:)
+* [Driving maneuvers](https://github.com/Tauvic/DriverAwareness/wiki/Distractions) (situational awareness, mirror checking)
 
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/mirror-checking.jpg"/>
 Whats new in this approach is the idea of full 360 degrees driver behavior monitoring by including monitoring of "Driving maneuvers". As far as i know there is currently no system that monitors the driver while executing vehicle maneuvers such as making left/right turns.
