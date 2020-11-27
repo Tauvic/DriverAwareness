@@ -5,7 +5,7 @@
 
 Strangely enough dangerous driving such as speeding and hard breaking is NOT the main cause of accidents.
 Of all car accidents 94 percent are caused by driver error and 57 percent by distracted driving.
-The idea is to develop an advanced driver monitoring system based on camera vision and machine learning that helps the driver to focus its attention on driving and improve its skills to reduce injuries and damages.
+The idea is to develop an advanced driver monitoring system based on camera vision and machine learning that helps the driver to focus its attention on driving and improve its driving skills to reduce injuries and damages.
 
 The driver coach system will check for all safety aspects (360 degrees 3D aspects):
 
@@ -14,8 +14,7 @@ The driver coach system will check for all safety aspects (360 degrees 3D aspect
 * Improve [Driving skills](https://github.com/Tauvic/DriverAwareness/wiki/Driving-Maneuvers) (situational awareness, mirror checking)
 
 <img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/mirror-checking.jpg"/>
-Whats new in this approach is the idea of full 360 degrees driver behavior monitoring by including monitoring of "Driving maneuvers". As far as i know there is currently no system that monitors the driver while executing vehicle maneuvers such as making left/right turns.
-
+What's new in this approach is the idea of providing each driver with an AI based personal driving coach. The driving coach combines the knowledge of a group of expert driving coaches, assesses your driving and provides valuable feedback to make driving safer. As far as i know there is currently no system that monitors the driver while executing vehicle maneuvers.
 
 **The objective is to make driving safer by developing an affordable personal driving coach. Therefore I open sourced this plan and its code and hope others including companies and organisations will step in and adopt it.**
 
