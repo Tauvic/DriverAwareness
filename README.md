@@ -179,6 +179,7 @@ Deployment on Smartphone or IoT devices such as [Coral Dev Board](http://coral.a
 ## Tools and technology
 
 <a href="https://www.youtube.com/watch?v=vAxRe8uPS3s"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/vAxRe8uPS3s/0.jpg"/><a>
+Note: the video is not the final product but included here to get a first impression ([Driver monitoring system from EyeSight](https://www.eyesight-tech.com))
  
  * Driver Sensors
     * Face location (is there a driver)
