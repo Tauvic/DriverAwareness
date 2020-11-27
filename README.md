@@ -44,7 +44,7 @@ The system is based on a camera, sensors and machine learning that monitor the d
 It will evaluate how you act as a driver in specific circumstances. For example how you prepare for a turn by checking your mirrors.
 It will also monitor for driver drowsiness and warn you to take a break.
    
-Note: the video shows Rick August and his safe driving instruction video's. We cannot put a Rick next to every driver. But we try to provide useful feedback to every driver([Smart Drive Test](https://www.youtube.com/c/Smartdrivetest/))
+Note: the video shows Rick August and his safe driving instruction video's. We cannot put a Rick next to every driver. But we try to provide useful feedback to every driver  [Rick August: Smart Drive Test video](https://www.youtube.com/c/Smartdrivetest)
 
 ## The business case
 Currently most car lease and insurance companies focus on reduction of aggressive driving habits (speeding or hard breaking).
