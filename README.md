@@ -83,7 +83,7 @@ We all have our thoughts on devices that observe us especially when we are makin
 * Who owns this data and has control over it
 * Can i put my trust in this system
 
-Everyone has to make up their own mind an decide:
+Everyone has to make up their own mind and decide:
 
 **Do I want to assess and improve my driving skills in order to make driving safe for myself and the people around me.**
 
