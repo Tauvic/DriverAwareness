@@ -74,8 +74,8 @@ I think the biggest challenge is to convince people to use these kind of systems
 Acceptance depends on two factors: how effective it is in making driving safe and if we can trust the system behind it.
 The effectiveness has to be proven with field trials and the results must be verified and reported to the public.
 
-We all have our thoughts on devices that monitor us especially when we are making errors.
-
+We all have our thoughts on devices that observe us especially when we are making errors. Everything the system does should therefore be crystal clear:
+<img align="right" width="300" src="https://github.com/Tauvic/DriverAwareness/blob/master/doc/Crystal-clear.jpg"/>
 * How does it work
 * What kind of data is being processed
 * How does it make its decisions (criteria)
@@ -83,8 +83,14 @@ We all have our thoughts on devices that monitor us especially when we are makin
 * Who owns this data and has control over it
 * Can i put my trust in this system
 
+Everyone has to make up their own mind an decide:
+
+**Do I want to assess and improve my driving skills in order to make driving safe for myself and the people around me.**
+
+I personally hope that we can make driving safer. My wife lost her father in a road accident and every life is valuable and worth saving. 
+
 To get user acceptance I propose to publish the general design of the system so people can understand how it works and what it does.
-A further assurance might be an independent auditor, auditing the final product.
+A further assurance might be an independent auditor or trustworthy organisation, auditing the final product and a statement that the product does what is promises.
 
 # How to develop and implement
 
