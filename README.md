@@ -41,7 +41,7 @@ a link to the [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRH
 <a href="https://www.youtube.com/watch?v=uJ4w63wZyFQ"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/uJ4w63wZyFQ/0.jpg"/><a>
 Its so easy to get distracted when your loved on sits next to you in the car or when you start day dreaming. 
 The "Driver Coach" is a smart system installed in your car that will provide feedback just like any regular driving coach. 
-The system is based on a camera, sensors and machine learning that monitor the driver's behaviour during a road trip. 
+The system is based on sensors and machine learning to monitor the driver's behaviour during a road trip. 
 It will evaluate how you act as a driver in specific circumstances. For example how you prepare for a turn by checking your mirrors.
 It will also monitor for driver drowsiness and warn you to take a break.
    
