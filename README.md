@@ -33,10 +33,10 @@ Approach:
 There is a path from idea to a working solution that has to be discovered. This requirers significant effort and expertise. I hope people will step in to join. Organisations can join to and decide to contribute to he project or step out at some time and continue on their own. All for the greater good of mankind and ethernal glory.
 
 _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)
-a link to the [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRHttK1QIrXpzs1W75Ems-VAGZeEljflD4uH83o5VFrHQ5IMb9apDvCATzksJKMjitwCM8x3FE2rOyq/pub?start=true&loop=false&delayms=60000)
+a link to the [presentation](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pdf)
 , ongoing activities in [project](https://github.com/Tauvic/DriverAwareness/projects/1). Any help is welcome._
 
-[![Presentation](doc/Presentation.png)](https://github.com/Tauvic/DriverAwareness/DriverCoach.pdf)
+[![Presentation](doc/Presentation.png)](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pdf)
 
 ## How can we make driving safer for every one? 
 <a href="https://www.youtube.com/watch?v=uJ4w63wZyFQ"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/uJ4w63wZyFQ/0.jpg"/><a>
