@@ -36,8 +36,7 @@ _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwa
 a link to the [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRHttK1QIrXpzs1W75Ems-VAGZeEljflD4uH83o5VFrHQ5IMb9apDvCATzksJKMjitwCM8x3FE2rOyq/pub?start=true&loop=false&delayms=60000)
 , ongoing activities in [project](https://github.com/Tauvic/DriverAwareness/projects/1). Any help is welcome._
 
-![Presentation](doc/Presentation.png)
-
+[![Presentation](doc/Presentation.png)](https://github.com/Tauvic/DriverAwareness/DriverCoach.pdf)
 
 ## How can we make driving safer for every one? 
 <a href="https://www.youtube.com/watch?v=uJ4w63wZyFQ"><img align="right" width="350" title="click to start video" src="https://img.youtube.com/vi/uJ4w63wZyFQ/0.jpg"/><a>
