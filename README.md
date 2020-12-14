@@ -33,7 +33,7 @@ Approach:
 There is a path from idea to a working solution that has to be discovered. This requirers significant effort and expertise. I hope people will step in to join. Organisations can join to and decide to contribute to he project or step out at some time and continue on their own. All for the greater good of mankind and ethernal glory.
 
 _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)
-a link to the [presentation](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pdf)
+a link to the prsentation [pdf](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pdf) [Powerpoint](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pptx)
 , ongoing activities in [project](https://github.com/Tauvic/DriverAwareness/projects/1). Any help is welcome._
 
 [![Presentation](doc/Presentation.png)](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pdf)
