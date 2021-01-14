@@ -34,7 +34,7 @@ Approach:
 There is a path from idea to a working solution that has to be discovered. This requirers significant effort and expertise. I hope people will step in to join. Organisations can join to and decide to contribute to he project or step out at some time and continue on their own. All for the greater good of mankind and ethernal glory.
 
 _You can find the plan in the [project wiki](https://github.com/Tauvic/DriverAwareness/wiki)
-a link to the prsentation [pdf](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pdf) [Powerpoint](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pptx)
+a link to the prsentation [pdf](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pdf)
 , ongoing activities in [project](https://github.com/Tauvic/DriverAwareness/projects/1). Any help is welcome._
 
 [![Presentation](doc/Presentation.png)](https://github.com/Tauvic/DriverAwareness/blob/master/DriverCoach.pdf)
@@ -50,6 +50,9 @@ It will also monitor for driver drowsiness and warn you to take a break.
 Note: the video shows Rick August and his safe driving instruction video's. We cannot put a Rick next to every driver. But we try to provide useful feedback to every driver  [Rick August: Smart Drive Test video](https://www.youtube.com/c/Smartdrivetest)
 
 ## The business case
+Each year traffic accidents in the Netherlands with 6.8 million cars cost about 600 lives, 30.000 injuries and 17 billion euro. Each fatal accident costs 1,5 million euro and each serious accident about 250.000 euro.
+
+
 Currently most car lease and insurance companies focus on reduction of aggressive driving habits (speeding or hard breaking).
 They provide their customers with Apps that use Smartphone sensors for tracking vehicle location and acceleration.
 But this approach does not cover all aspects (distraction,drowsiness and driving maneuvers) and is therefore less effective to reduce accidents. Drivers usually know when they have aggressive driving habits. and aggressive drivers are usually not willing to change their habits. But cautious drivers are the majority and they are willing to learn and improve their driving skills in order to make their life safer. From a safety perspective the driver is better helped with a system that monitors driver alertness, warns them in potential dangerous situations and provides useful feedback for improving driving skills. This will reduce their chance of getting into an accident with 57 percent.
